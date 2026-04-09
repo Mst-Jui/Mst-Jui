@@ -1,5 +1,7 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQFtLINXCTFpJw/profile-displaybackgroundimage-shrink_200_800/B56ZzQZ6H2HQAU-/0/1773022979966?e=1777507200&v=beta&t=WiolMoYtmjx3PO3zVa8Ubgalq9FV8bxPkEyRys5xcEo)
 # Hi, I am Mst Jui
+### Web Developer
+![](https://media.licdn.com/dms/image/v2/D5616AQFtLINXCTFpJw/profile-displaybackgroundimage-shrink_200_800/B56ZzQZ6H2HQAU-/0/1773022979966?e=1777507200&v=beta&t=WiolMoYtmjx3PO3zVa8Ubgalq9FV8bxPkEyRys5xcEo)
+
 #### 💻 Web Developer | Frontend & Backend | Full Stack Developer in Progress
 
 
@@ -12,7 +14,7 @@ I am a passionate Web Developer focused on both frontend and backend development
 - JavaScript
 - Git & GitHub – Version control & collaboration
 - I’m exploring **Next.js** for modern web development 
-Currently, I am working on improving my full stack development skills by building real-world projects and exploring new technologies.
+- Currently, I am working on improving my full stack development skills by building real-world projects and exploring new technologies.
 
 
 ## 🛠️ Skills
@@ -42,5 +44,10 @@ Currently, I am working on improving my full stack development skills by buildin
 🧠 Technology Exploration: Exploring new technologies excites me .
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mst-Jui)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mst-Jui)
 
 
