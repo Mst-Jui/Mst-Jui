@@ -33,7 +33,7 @@ I am a passionate Web Developer focused on both frontend and backend development
  Manikganj, Dhaka, Bangladesh
 
 ## 🌐 Connect with Me
-######  Email: contact.mstjui@gmail.com
+######  Email: contact.juiakter@gmail.com
 ###### GitHub: https://github.com/Mst-Jui
 ###### LinkedIn: https://www.linkedin.com/in/mstjui/
 ###### WhatsApp: +8801612761084
