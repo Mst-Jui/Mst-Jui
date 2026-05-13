@@ -1,6 +1,6 @@
 # Hi, I am Mst Jui
 ### Web Developer
-![](https://i.ibb.co/whCgFLdC/Full-stack-developer-banner-design.png)
+![](https://i.ibb.co/h1xjyjCp/Chat-GPT-Image-May-13-2026-07-15-12-PM.png)
 
 #### 💻 Web Developer | Frontend & Backend | Full Stack Developer in Progress
 
@@ -25,7 +25,7 @@ I am a passionate Web Developer focused on both frontend and backend development
  ⚡ JavaScript  
  ⚛️ React.js  
  🚀 Next.js    
- 🟢 Node.js 
+ 🟢 Node.js  
  🚂 Express.js  
  🍃 MongoDB  
  🔐 Better Auth  
