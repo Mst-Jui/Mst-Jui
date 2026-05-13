@@ -20,14 +20,18 @@ I am a passionate Web Developer focused on both frontend and backend development
 ## 🛠️ Skills
 
  🌐 HTML  
-🎨 CSS  
+ 🎨 CSS  
+  💨 Tailwind CSS  
  ⚡ JavaScript  
  ⚛️ React.js  
- 🚀 Next.js  
- 💨 Tailwind CSS  
- 🟢 Node.js  
+ 🚀 Next.js    
+ 🟢 Node.js 
+ 🚂 Express.js  
+ 🍃 MongoDB  
+ 🔐 Better Auth  
  🛠️ Git  
- 🐙 GitHub 
+ 🐙 GitHub  
+ 
 
 ## 🌍Location
  Manikganj, Dhaka, Bangladesh
