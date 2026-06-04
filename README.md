@@ -1,8 +1,11 @@
-# Hi, I am Mst Jui
-### Web Developer
+# Hi 👋, I am Mst Jui
+#### Full-Stack Web Developer
 ![](https://i.ibb.co/h1xjyjCp/Chat-GPT-Image-May-13-2026-07-15-12-PM.png)
 
-#### 💻 Web Developer | Frontend & Backend | Full Stack Developer in Progress
+<div align="center">
+  <p>A passionate Full-Stack Web Developer from Bangladesh</p>
+</div>
+<div align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&backSpeed=0&color=3674B5&center=true&vCenter=true&lines=Hi+there%2C+I+am+MST+Jui;Full-Stack+Web+Developer;Let’s+make+something+cool!" alt="Typing Animation" /></div>
 
 
 
