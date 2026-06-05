@@ -11,13 +11,15 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate Web Developer focused on both frontend and backend development. I enjoy building modern, responsive, and user-friendly web applications using technologies like HTML, CSS, JavaScript, React.js, Node.js, and Next.js.
+Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js, Next.js, Node.js, and MongoDB. Passionate about building scalable web applications, solving real-world problems, and contributing to a growth-driven product team while continuously expanding technical and collaborative skills.
 
 ###### 🌱  Currently Learning
-- JavaScript
-- Git & GitHub – Version control & collaboration
-- I’m exploring **Next.js** for modern web development 
+- MongoDB, Express.js, React.js, Node.js
 - Currently, I am working on improving my full stack development skills by building real-world projects and exploring new technologies.
+
+###### 📫   How to reach me:
+- 📧 Email: contact.juiakter@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mstjui
 
 
 ## 🛠️ Skills
