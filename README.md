@@ -22,10 +22,10 @@ Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js,
 
 
 ### Connect with me:
-
-<a href="https://www.linkedin.com/in/mstjui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstjui" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mst.jui.825437" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-profile" height="30" width="40" /></a>
-
+<table><tr>
+<td><a href="https://www.linkedin.com/in/mstjui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstjui" height="30" width="40" /></a></td>
+<td><a href="https://www.facebook.com/mst.jui.825437" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-profile" height="30" width="40" /></a></td>
+</tr></table>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,6 @@ Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js,
 <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
 <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-<td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
 <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
 <td><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a></td>
 <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
@@ -44,22 +43,8 @@ Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js,
 </tr></table>
 
 
-## 🛠️ Skills
-
- 🌐 HTML  
- 🎨 CSS  
-  💨 Tailwind CSS  
- ⚡ JavaScript  
- ⚛️ React.js  
- 🚀 Next.js    
- 🟢 Node.js  
- 🚂 Express.js  
- 🍃 MongoDB  
- 🔐 Better Auth  
- 🛠️ Git  
- 🐙 GitHub  
  
-
+ 
 
 
 
