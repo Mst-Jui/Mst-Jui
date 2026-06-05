@@ -19,7 +19,12 @@ Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js,
 
 ###### 📫   How to reach me:
 - 📧 Email: contact.juiakter@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mstjui
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/mstjui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstjui" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mst.jui.825437" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-profile" height="30" width="40" /></a>
 
 
 ## 🛠️ Skills
