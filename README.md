@@ -72,5 +72,12 @@ Motivated Full-Stack Developer with a strong foundation in JavaScript, React.js,
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-### My GitHub Stats:
+### 📈 My GitHub Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=Mst-Jui&theme=dark&background=000000)
+
+
+
+### 📈 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mst-Jui&theme=tokyonight&hide_border=true&area=true&custom_title=Mst-Jui's%20Contribution%20Graph)
+
+
